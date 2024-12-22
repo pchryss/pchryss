@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![shooting star gif](https://github.com/pchryss/pchryss/blob/main/shootingstar.gif)
 <!--
 **pchryss/pchryss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
